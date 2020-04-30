@@ -6,3 +6,5 @@ The following notebooks contain all the work:
 - PER contains all the work associated with prioritized experience replay.
 - HER contains all the work associated with hindsight experience replay.
 - data_analysis contains all the work associated with aggregating the results.
+
+All other notebooks are iterations of work and are not final.
