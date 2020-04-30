@@ -1,4 +1,4 @@
-# comp767_finalproject
+# A Study of Experience Replays in Deep Q Networks
 
 The following notebooks contain all the work:
 
